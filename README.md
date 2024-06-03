@@ -1,4 +1,19 @@
-## Hi there 👋
+## Oi 👋
+
+Bem vindo!
+Pode me chamar de belzoca
+- 💬 Estou estudando na Alura
+- 🔭 Desenvolvendo linguagem JavaScript
+- 😄 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ 
+
+ Você pode entrar em contato comigo 📫
+  
+  00001091112290sp@al.educacao.sp.gov.br
+
+@isabeeell
+
+
 
 <!--
 **isabeeell/isabeeell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
