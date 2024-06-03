@@ -1,7 +1,7 @@
 ## Oi 👋
 
 Bem vindo!
-Pode me chamar de belzoca
+Pode me chamar de **belzoca** 
 - 💬 Estou estudando na Alura
 - 🔭 Desenvolvendo linguagem JavaScript
 - 😄 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
